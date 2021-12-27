@@ -1,0 +1,3 @@
+﻿  test.cpp
+OOP_Exam_Win64D.lib(OOP_Exam.obj) : warning LNK4099: 'OOP_Exam_Win.pdb' PDB를 'OOP_Exam_Win64D.lib(OOP_Exam.obj)' 또는 'C:\Users\ChoiDW\source\repos\Final_Exam\x64\Debug\OOP_Exam_Win.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  Final_Exam.vcxproj -> C:\Users\ChoiDW\source\repos\Final_Exam\x64\Debug\Final_Exam.exe
